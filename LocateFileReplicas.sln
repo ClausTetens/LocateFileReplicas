@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocateFileReplicas", "LocateFileReplicas\LocateFileReplicas.csproj", "{2E743608-5470-4855-BB96-DB4F44D543ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E743608-5470-4855-BB96-DB4F44D543ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E743608-5470-4855-BB96-DB4F44D543ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E743608-5470-4855-BB96-DB4F44D543ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E743608-5470-4855-BB96-DB4F44D543ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CDA4548-038D-475B-9DDF-E4F264CA6E9D}
+	EndGlobalSection
+EndGlobal
